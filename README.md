@@ -114,7 +114,6 @@ Q6. Calculate by how much the total annual turnover could increase by giving all
 **Final Results**
 ![Final_results](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/43e27479-2ba9-4e4b-b862-6a679918b135)
 
-|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
 **Graphical Comparison:**
 Utilized bar graphs to visually compare average costs across different fare conditions per aircraft.
 
@@ -154,4 +153,4 @@ Airlines should adopt a data-driven approach to revenue analysis and optimizatio
 
 * These summary points underscore the importance of revenue analysis, the role of occupancy in profitability, and the need to balance profit goals with delivering quality service and safety.
 
-|---------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|
