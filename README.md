@@ -106,13 +106,14 @@ Q6. Calculate by how much the total annual turnover could increase by giving all
 </code> </pre>
 
 **Number of Tickets Booked with Time**
-![No_of_ticket_booked_with_time](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/ae17c494-d35b-478f-bc1b-4bfb0928b2f0)
+![No_of_ticket_booked_with_time](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/c1d716e3-70f6-4446-bb27-329004eae6b3)
+
 **Total Amount Earned with Time**
-![Total_amount_earned_with_time](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/711da1a5-848f-4173-b312-bed77f67e3c2)
-![Aircraft_code_vs_avg_charges](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/ba0d5077-3a67-4984-a37e-d6d811ff8297)
+![Total_amount_earned_with_time](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/9c3bff23-0dea-4f95-9357-767d27d870da)
+![Aircraft_code_vs_avg_charges](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/4aa66f83-3b9c-4652-b5cd-fa530cf1ce36)
 
 **Final Results**
-![Final_results](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/43e27479-2ba9-4e4b-b862-6a679918b135)
+![Final_results](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/04008c92-1334-4dd3-ac38-c880627c391c)
 
 **Graphical Comparison:**
 Utilized bar graphs to visually compare average costs across different fare conditions per aircraft.
