@@ -9,8 +9,8 @@ Join us in shaping aviation's future through innovation and data excellence.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Installation and Steps Involved](#installation-and-steps-involved)
 - [Objectives](#objectives)
+- [Installation and Steps Involved](#installation-and-steps-involved)
 - [Database and Tables](#database-and-tables)
 - [Preprocessing and Exploration](#preprocessing-and-exploration)
 - [Analysis and Insights](#analysis-and-insights)
@@ -20,6 +20,19 @@ Join us in shaping aviation's future through innovation and data excellence.
 Navigating Aviation Challenges: Our aviation fleet thrives on passenger satisfaction. Yet, factors like regulations, costs, and competition challenge profitability.
 Data-Powered Solution: Through precise data analysis, we're optimizing seat occupancy to counter financial pressures and offer exceptional travel.
 Revitalizing Industry: This project not only boosts per-seat profits but also revolutionizes aviation economics, inviting you to shape a sustainable future with us.
+
+## Objectives
+*Increase Occupancy Rate:*
+  -The primary objective is to raise the occupancy rate. Achieving this will directly enhance the average profit per seat, countering the current challenges.
+
+*Optimize Pricing Strategy:*
+-Develop a dynamic pricing strategy that adapts to market fluctuations and aligns with customer preferences. This will attract and retain customers effectively.
+
+*Elevate Customer Experience:*
+-Prioritize a seamless end-to-end experience for passengers, from booking to arrival. This distinctiveness in a competitive industry will foster customer loyalty.
+
+* The ultimate aim of these objectives is to pinpoint avenues for boosting the occupancy rate on flights with lower performance. 
+This targeted effort has the potential to significantly amplify the airline's profitability.
 
 ## Installation and Steps Involved
 <pre><code>
@@ -55,19 +68,6 @@ Revitalizing Industry: This project not only boosts per-seat profits but also re
 8. Project Completion:
 	Save and download your modified notebook to your local drive.
 </code></pre>
-
-## Objectives
-*Increase Occupancy Rate:*
-  -The primary objective is to raise the occupancy rate. Achieving this will directly enhance the average profit per seat, countering the current challenges.
-
-*Optimize Pricing Strategy:*
--Develop a dynamic pricing strategy that adapts to market fluctuations and aligns with customer preferences. This will attract and retain customers effectively.
-
-*Elevate Customer Experience:*
--Prioritize a seamless end-to-end experience for passengers, from booking to arrival. This distinctiveness in a competitive industry will foster customer loyalty.
-
-* The ultimate aim of these objectives is to pinpoint avenues for boosting the occupancy rate on flights with lower performance. 
-This targeted effort has the potential to significantly amplify the airline's profitability.
 
 ## Database and Tables
  <pre><code>
