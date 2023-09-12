@@ -1,4 +1,6 @@
 # Airlines_Business_Project  
+![Airline_project_logo](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/d19f7bcc-6008-45f5-b4cd-fb2c8aad4ad1)  
+
 "ElevateAir: Enhancing Aviation Profitability via Data-Driven Occupancy Optimization"
 
 ElevateAir addresses modern aviation challenges by analyzing our diverse aircraft fleet's occupancy rates. 
