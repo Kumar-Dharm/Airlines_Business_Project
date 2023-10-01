@@ -15,6 +15,7 @@ Join us in shaping aviation's future through innovation and data excellence.
 - [Schema of Database](#schema-of-database)
 - [Preprocessing and Exploration](#preprocessing-and-exploration)
 - [Analysis and Insights](#analysis-and-insights)
+- [Limitation and Challenges](#limitation-and-challenges)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -72,19 +73,6 @@ This targeted effort has the potential to significantly amplify the airline's pr
 
 ## Schema of Database  
 ![Schema](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/ac20f5c8-5d6a-497c-9d96-f89b38204c3e)  
-
-**Tables in Database**
-<pre><code>
-**List of tables in Database:**
-''' ['aircrafts_data',
- 'airports_data',
- 'boarding_passes',
- 'bookings',
- 'flights',
- 'seats',
- 'ticket_flights',
- 'tickets']'''
-</code></pre>
 
 ## Preprocessing and Exploration
 
@@ -190,8 +178,12 @@ Q7. Calculate by how much the total annual turnover could increase by giving all
 - Higher occupancy rates improve revenue, profitability, and operational efficiency.
 - Calculated by dividing booked seats by total seats.
 
-## Conclusion  
+## Limitation and Challenges  
+- Working with static data poses a limitation for future relevance unless automated with real-time or updated datasets.
+- Explored the integration of Google Colab with Google Drive, SQLite, and Pandas, which added a layer of complexity to the project.
+- Dealing with extensive datasets requires efficient techniques for extraction and analysis to draw meaningful conclusions.
 
+## Conclusion  
 **Revenue Data Analysis for Profitability:**
 - Analyzing total yearly revenue, average ticket revenue, and aircraft occupancy is vital for maximizing airline profitability.
 - Insights from these metrics guide pricing, route adjustments, and operational improvements.
